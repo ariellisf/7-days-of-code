@@ -1,10 +1,13 @@
 @import url(./cabecalho.css);
 @import url(./banner.css);
 @import url(./metricas.css);
+@import url(./vagas.css);
+@import url(./areas.css);
 
 :root {
   --branco: #ffffff;
   --cinza: #3a404e;
+  --cinza-borda: #eaecf0;
   --cinza-claro: #667085;
   --cinza-escuro: #101828;
   --vermelho: #8e2424;
