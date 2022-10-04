@@ -3,6 +3,8 @@
 @import url(./metricas.css);
 @import url(./vagas.css);
 @import url(./areas.css);
+@import url(./depoimento.css);
+@import url(./rodape.css);
 
 :root {
   --branco: #ffffff;
@@ -10,6 +12,8 @@
   --cinza-borda: #eaecf0;
   --cinza-claro: #667085;
   --cinza-escuro: #101828;
+  --cinza-fundo: #f9fafb;
+  --cinza-rodape: #98a2b3;
   --vermelho: #8e2424;
   --fonte-texto: "Inter";
 }
